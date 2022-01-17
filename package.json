@@ -1,0 +1,18 @@
+{
+  "name": "notes-terminal-db",
+  "version": "1.0.0",
+  "description": "Notes CRUD Application controlled using Terminal with Database Storage",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh Solanki",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.1",
+    "dotenv": "^12.0.4",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6",
+    "yargs": "^17.3.1"
+  }
+}
